@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 70 33" style="enable-background:new 0 0 70 33;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#1D1D1D;}
+	.st2{fill:#E52521;}
+	.st3{fill:#FFCC07;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="70" height="33"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<path class="st1" d="M29.5,3.7L29.5,3.7c0-2-1.7-3.7-3.7-3.7h-41.6c-2,0-3.7,1.7-3.7,3.7s1.7,3.7,3.7,3.7h41.6
+			C27.9,7.4,29.5,5.7,29.5,3.7"/>
+		<path class="st2" d="M49.8,16.5L49.8,16.5c0-2-1.7-3.7-3.7-3.7h-61.8c-2,0-3.7,1.7-3.7,3.7s1.7,3.7,3.7,3.7h61.8
+			C48.1,20.2,49.8,18.5,49.8,16.5"/>
+		<path class="st3" d="M70,29.3L70,29.3c0-2-1.7-3.7-3.7-3.7h-82.1c-2,0-3.7,1.7-3.7,3.7s1.7,3.7,3.7,3.7h82.1
+			C68.3,33,70,31.3,70,29.3"/>
+	</g>
+</g>
+</svg>
